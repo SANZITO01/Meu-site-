@@ -16,7 +16,7 @@
                  <a type="button" class="btn btn-success" href="index.html" >
                     <li class="menu">pag 1</li>
                 </a>
-                <a type="button" class="btn btn-success" href="item2.html">
+                <a type="button" class="btn btn-success" href="Item2.html">
                     <li class="menu">pag 2</li>
                 </a>
                 <a type="button" class="btn btn-success"  href="item3.html">
